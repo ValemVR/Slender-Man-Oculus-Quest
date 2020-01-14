@@ -13,3 +13,8 @@ Slender Man : https://sketchfab.com/3d-models/slender-man-slender-the-arrival-0d
 Truck : https://sketchfab.com/3d-models/gmc-sierra-work-truck-1fae2b50fbe14d2c98296a2560a38399
 
 House : https://sketchfab.com/3d-models/house-cfaf9a6c3a304dd9948044f8a63e391f
+
+
+# License
+
+https://creativecommons.org/licenses/by/4.0/
